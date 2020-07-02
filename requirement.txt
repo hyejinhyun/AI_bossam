@@ -1,0 +1,5 @@
+[ELMo 및 BERT train model 대용량 파일 다운]
+https://drive.google.com/drive/folders/1LOvFwSPdQ7u_f3nKi7afHHwm5SXPW3GO?usp=sharing
+
+git lfs가 되지 않아서 모델 파일만 구글드라이브로 업로드했습니다.
+링크로 들어가서 다운받아주세요.
